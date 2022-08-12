@@ -46,3 +46,9 @@ In multiple order, if there is an invalid pizza in the line, it will be **ignore
 You can follow the progress of the kitchen by typing `status`
 
 If a kitchen doesn't receive an order, it will close after **5 seconds**.
+
+## Credits
+
+**Nathan Guiu**  https://github.com/Nathn-G</br>
+**Mathis Lorenzo**  https://github.com/mathis-lorenzo</br>
+**Hugo Marrassé**  https://github.com/pulk66-s
