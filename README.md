@@ -2,8 +2,8 @@
 
 The Plazza is an introduction project to concurrent programming.
 It allowed me to develop skills in  :
-    - thread and mutexs
-    - The IPC (semaphores, message queues etc.)
+- thread and mutexs
+- The IPC (semaphores, message queues etc.)
 
 
 ## Subject
